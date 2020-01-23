@@ -1,4 +1,4 @@
-business management  & stock analysis 
+wholesaler management  & stock analysis 
 
 This is a project that I did as part of the "Database Systems" course laboratory in my 5th semester during undergrad.
 
